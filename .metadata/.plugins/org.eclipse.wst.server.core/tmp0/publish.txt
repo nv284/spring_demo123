@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Sun Jul 07 23:30:43 IST 2024
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Nishi\ Verma\\.m2\\repository\\org\\apache\\tomcat\\tomcat-jasper\\10.0.13\\tomcat-jasper-10.0.13.jar=WEB-INF/lib/tomcat-jasper-10.0.13.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Nishi\ Verma\\.m2\\repository\\org\\apache\\tomcat\\tomcat-websocket\\10.0.13\\tomcat-websocket-10.0.13.jar=WEB-INF/lib/tomcat-websocket-10.0.13.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Nishi\ Verma\\.m2\\repository\\org\\apache\\tomcat\\tomcat-jasper-el\\10.0.13\\tomcat-jasper-el-10.0.13.jar=WEB-INF/lib/tomcat-jasper-el-10.0.13.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Nishi\ Verma\\.m2\\repository\\org\\springframework\\spring-web\\6.1.8\\spring-web-6.1.8.jar=WEB-INF/lib/spring-web-6.1.8.jar
