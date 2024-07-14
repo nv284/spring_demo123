@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\API_demos\springjdbcDemo\src\main\java\com\org\sim\data\db\DBClass.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -25,12 +26,19 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.data.springEmpCrudDemo"/>
+			<item value="com.org.sim.emp"/>
+			<item value="com.org.sim.data"/>
 			<item value="com.org.sim"/>
 		</list>
 		<list key="groupId">
+			<item value="com.data"/>
 			<item value="com.aop"/>
 		</list>
 		<list key="artifactId">
+			<item value="springEmpCrudDemo"/>
+			<item value="springEmployeeCrudOperation"/>
+			<item value="springjdbcDemo"/>
 			<item value="AopAnnotation"/>
 		</list>
 		<list key="projectNameTemplate">
