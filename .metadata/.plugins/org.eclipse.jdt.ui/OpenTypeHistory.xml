@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+    <typeInfo handle="=springCrudMysqlDemo/C:\/Users\/Nishi Verma\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/3.3.2\/spring-data-jpa-3.3.2.jar=/maven.pomderived=/true=/=/javadoc_location=/jar:file:\/C:\/Users\/Nishi\%20Verma\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/3.3.2\/spring-data-jpa-3.3.2-javadoc.jar\!\/=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/3.3.2=/=/maven.scope=/compile=/=/maven.pomderived=/true=/=/org.eclipse.jst.component.nondependency=/=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1721580832387"/>
+    <typeInfo handle="=springCrudMysqlDemo/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.org.sim.service{DepartmentService.java[DepartmentService" modifiers="513" timestamp="1722090183415"/>
+    <typeInfo handle="=sprindbootAPIMongoDB/C:\/Users\/Nishi Verma\/.m2\/repository\/org\/springframework\/data\/spring-data-mongodb\/4.3.2\/spring-data-mongodb-4.3.2.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-mongodb=/=/maven.version=/4.3.2=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.data.mongodb.repository(MongoRepository.class[MongoRepository" modifiers="1537" timestamp="1722086096143"/>
+</typeInfoHistroy>

@@ -26,16 +26,22 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.org.jtest"/>
+			<item value="com.org.jdbc"/>
 			<item value="com.data.springEmpCrudDemo"/>
 			<item value="com.org.sim.emp"/>
 			<item value="com.org.sim.data"/>
 			<item value="com.org.sim"/>
 		</list>
 		<list key="groupId">
+			<item value="com.test"/>
 			<item value="com.data"/>
 			<item value="com.aop"/>
 		</list>
 		<list key="artifactId">
+			<item value="junitDemo"/>
+			<item value="springNamedParameterdemo"/>
+			<item value="springJdbcNamedparapmeter"/>
 			<item value="springEmpCrudDemo"/>
 			<item value="springEmployeeCrudOperation"/>
 			<item value="springjdbcDemo"/>
@@ -91,6 +97,22 @@
 		</list>
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Nishi Verma\Downloads\springMicroservice"/>
+			<item value="C:\Users\Nishi Verma\Downloads\springCrudMysqlDemo"/>
+			<item value="C:\Users\Nishi Verma\Downloads\sprindbootAPIMongoDB"/>
+			<item value="D:\API_demos\SpringJDBCExample"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
 		</list>
 	</section>
 </section>
